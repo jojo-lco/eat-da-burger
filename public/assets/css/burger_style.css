@@ -1,0 +1,9 @@
+.background{
+    background-color: bisque;
+}
+header{
+    text-align: center;
+}
+#devoured{
+    text-decoration: line-through;
+}
